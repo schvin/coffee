@@ -1,0 +1,12 @@
+{
+    "big bear cafe": {
+        "url": "http://www.bigbearcafe-dc.com/",
+        "address": "1700 1st Street, NW Washington, DC 20001",
+        "hours": {
+            "mon-thu": "0700-2200",
+            "fri": "0700-0000",
+            "sat": "0730-0000",
+            "sun": "0730-2000"
+        }
+    }
+}

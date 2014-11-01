@@ -1,12 +1,25 @@
 {
+
     "big bear cafe": {
         "url": "http://www.bigbearcafe-dc.com/",
-        "address": "1700 1st Street, NW Washington, DC 20001",
+        "address": "1700 1st Street NW, Washington, DC 20001",
         "hours": {
             "mon-thu": "0700-2200",
             "fri": "0700-0000",
             "sat": "0730-0000",
             "sun": "0730-2000"
         }
-    }
+    },
+
+    "slipstream": {
+        "url": "http://slipstreamdc.com/",
+        "address": "1333 14th Street NW, Washington, DC 20005",
+        "hours": {
+            "mon-thu": "0700-2300",
+            "fri": "0700-0100",
+            "sat": "0800-0100",
+            "sun": "0800-2300"
+        }
+    },
+
 }
